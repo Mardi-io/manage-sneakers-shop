@@ -1,5 +1,5 @@
 
-# Manage Sneakers Shop
+# Manage Sneakers Shop - WooCommerce - Shopify - Prestashop
 
 
 
